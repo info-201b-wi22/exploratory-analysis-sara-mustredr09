@@ -1,0 +1,922 @@
+CohortYearTTL,DemographicGroup,DemographicValue,JJOffenderType,HSOutcome,Pct,RedactedPct
+2013,All Students,All Students,Justice Involved,Dropout,0.41,41
+2013,All Students,All Students,Justice Involved,GED,0.17,17
+2013,All Students,All Students,Justice Involved,HS Diploma,0.42,42
+2013,All Students,All Students,Juvenile Offender,Dropout,0.4,40
+2013,All Students,All Students,Juvenile Offender,GED,0.17,17
+2013,All Students,All Students,Juvenile Offender,HS Diploma,0.43,43
+2013,All Students,All Students,Not Justice Involved,Dropout,0.13,13
+2013,All Students,All Students,Not Justice Involved,GED,0.04,4
+2013,All Students,All Students,Not Justice Involved,HS Diploma,0.83,83
+2013,All Students,All Students,Status Offender,Dropout,0.55,55
+2013,All Students,All Students,Status Offender,GED,0.19,19
+2013,All Students,All Students,Status Offender,HS Diploma,0.26,26
+2013,Gender,F,Justice Involved,Dropout,0.41,41
+2013,Gender,F,Justice Involved,GED,0.16,16
+2013,Gender,F,Justice Involved,HS Diploma,0.44,44
+2013,Gender,F,Juvenile Offender,Dropout,0.4,40
+2013,Gender,F,Juvenile Offender,GED,0.15,15
+2013,Gender,F,Juvenile Offender,HS Diploma,0.45,45
+2013,Gender,F,Not Justice Involved,Dropout,0.12,12
+2013,Gender,F,Not Justice Involved,GED,0.04,4
+2013,Gender,F,Not Justice Involved,HS Diploma,0.85,85
+2013,Gender,F,Status Offender,Dropout,0.52,52
+2013,Gender,F,Status Offender,GED,0.18,18
+2013,Gender,F,Status Offender,HS Diploma,0.3,30
+2013,Gender,M,Justice Involved,Dropout,0.41,41
+2013,Gender,M,Justice Involved,GED,0.18,18
+2013,Gender,M,Justice Involved,HS Diploma,0.41,41
+2013,Gender,M,Juvenile Offender,Dropout,0.4,40
+2013,Gender,M,Juvenile Offender,GED,0.18,18
+2013,Gender,M,Juvenile Offender,HS Diploma,0.42,42
+2013,Gender,M,Not Justice Involved,Dropout,0.15,15
+2013,Gender,M,Not Justice Involved,GED,0.04,4
+2013,Gender,M,Not Justice Involved,HS Diploma,0.81,81
+2013,Gender,M,Status Offender,Dropout,0.58,58
+2013,Gender,M,Status Offender,GED,0.19,19
+2013,Gender,M,Status Offender,HS Diploma,0.23,23
+2013,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,Dropout,0.53,53
+2013,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,GED,0.17,17
+2013,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,HS Diploma,0.3,30
+2013,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,Dropout,0.53,53
+2013,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,GED,0.17,17
+2013,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,HS Diploma,0.31,31
+2013,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,Dropout,0.25,25
+2013,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,GED,0.08,8
+2013,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,HS Diploma,0.67,67
+2013,Race/Ethnicity,American Indian or Alaska Native,Status Offender,Dropout,,60-69
+2013,Race/Ethnicity,American Indian or Alaska Native,Status Offender,GED,,20-29
+2013,Race/Ethnicity,American Indian or Alaska Native,Status Offender,HS Diploma,,11-19
+2013,Race/Ethnicity,Asian,Justice Involved,Dropout,0.34,34
+2013,Race/Ethnicity,Asian,Justice Involved,GED,0.14,14
+2013,Race/Ethnicity,Asian,Justice Involved,HS Diploma,0.52,52
+2013,Race/Ethnicity,Asian,Juvenile Offender,Dropout,0.33,33
+2013,Race/Ethnicity,Asian,Juvenile Offender,GED,0.13,13
+2013,Race/Ethnicity,Asian,Juvenile Offender,HS Diploma,0.54,54
+2013,Race/Ethnicity,Asian,Not Justice Involved,Dropout,0.11,11
+2013,Race/Ethnicity,Asian,Not Justice Involved,GED,0.02,2
+2013,Race/Ethnicity,Asian,Not Justice Involved,HS Diploma,0.88,88
+2013,Race/Ethnicity,Asian,Status Offender,Dropout,,40-49
+2013,Race/Ethnicity,Asian,Status Offender,GED,,20-29
+2013,Race/Ethnicity,Asian,Status Offender,HS Diploma,,20-29
+2013,Race/Ethnicity,Black or African American,Justice Involved,Dropout,0.5,50
+2013,Race/Ethnicity,Black or African American,Justice Involved,GED,0.18,18
+2013,Race/Ethnicity,Black or African American,Justice Involved,HS Diploma,0.32,32
+2013,Race/Ethnicity,Black or African American,Juvenile Offender,Dropout,0.49,49
+2013,Race/Ethnicity,Black or African American,Juvenile Offender,GED,0.18,18
+2013,Race/Ethnicity,Black or African American,Juvenile Offender,HS Diploma,0.32,32
+2013,Race/Ethnicity,Black or African American,Not Justice Involved,Dropout,0.2,20
+2013,Race/Ethnicity,Black or African American,Not Justice Involved,GED,0.05,5
+2013,Race/Ethnicity,Black or African American,Not Justice Involved,HS Diploma,0.75,75
+2013,Race/Ethnicity,Black or African American,Status Offender,Dropout,,55-59
+2013,Race/Ethnicity,Black or African American,Status Offender,GED,,15-19
+2013,Race/Ethnicity,Black or African American,Status Offender,HS Diploma,,25-29
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,Dropout,0.36,36
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,GED,0.23,23
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,HS Diploma,0.4,40
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,Dropout,0.34,34
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,GED,0.24,24
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,HS Diploma,0.42,42
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,Dropout,0.15,15
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,GED,0.06,6
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,HS Diploma,0.79,79
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,Dropout,,50-59
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,GED,,11-19
+2013,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,HS Diploma,,20-29
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,Dropout,0.52,52
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,GED,0.14,14
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,HS Diploma,0.34,34
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,Dropout,0.51,51
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,GED,0.15,15
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,HS Diploma,0.34,34
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,Dropout,0.27,27
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,GED,0.03,3
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,HS Diploma,0.7,70
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,Dropout,,Redacted
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,GED,,Redacted
+2013,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,HS Diploma,,Redacted
+2013,Race/Ethnicity,Not Provided - Race,Justice Involved,Dropout,0.36,36
+2013,Race/Ethnicity,Not Provided - Race,Justice Involved,GED,0.2,20
+2013,Race/Ethnicity,Not Provided - Race,Justice Involved,HS Diploma,0.44,44
+2013,Race/Ethnicity,Not Provided - Race,Juvenile Offender,Dropout,0.37,37
+2013,Race/Ethnicity,Not Provided - Race,Juvenile Offender,GED,0.19,19
+2013,Race/Ethnicity,Not Provided - Race,Juvenile Offender,HS Diploma,0.44,44
+2013,Race/Ethnicity,Not Provided - Race,Not Justice Involved,Dropout,0.1,10
+2013,Race/Ethnicity,Not Provided - Race,Not Justice Involved,GED,0.03,3
+2013,Race/Ethnicity,Not Provided - Race,Not Justice Involved,HS Diploma,0.87,87
+2013,Race/Ethnicity,Not Provided - Race,Status Offender,Dropout,,Redacted
+2013,Race/Ethnicity,Not Provided - Race,Status Offender,GED,,Redacted
+2013,Race/Ethnicity,Not Provided - Race,Status Offender,HS Diploma,,Redacted
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,Dropout,0.51,51
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,GED,0.14,14
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,HS Diploma,0.35,35
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,Dropout,0.5,50
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,GED,0.14,14
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,HS Diploma,0.36,36
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,Dropout,0.23,23
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,GED,0.04,4
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,HS Diploma,0.73,73
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,Dropout,0.59,59
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,GED,0.13,13
+2013,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,HS Diploma,0.28,28
+2013,Race/Ethnicity,White,Justice Involved,Dropout,0.35,35
+2013,Race/Ethnicity,White,Justice Involved,GED,0.18,18
+2013,Race/Ethnicity,White,Justice Involved,HS Diploma,0.47,47
+2013,Race/Ethnicity,White,Juvenile Offender,Dropout,0.34,34
+2013,Race/Ethnicity,White,Juvenile Offender,GED,0.18,18
+2013,Race/Ethnicity,White,Juvenile Offender,HS Diploma,0.48,48
+2013,Race/Ethnicity,White,Not Justice Involved,Dropout,0.1,10
+2013,Race/Ethnicity,White,Not Justice Involved,GED,0.04,4
+2013,Race/Ethnicity,White,Not Justice Involved,HS Diploma,0.86,86
+2013,Race/Ethnicity,White,Status Offender,Dropout,0.52,52
+2013,Race/Ethnicity,White,Status Offender,GED,0.22,22
+2013,Race/Ethnicity,White,Status Offender,HS Diploma,0.26,26
+2014,All Students,All Students,Justice Involved,Dropout,0.37,37
+2014,All Students,All Students,Justice Involved,GED,0.11,11
+2014,All Students,All Students,Justice Involved,HS Diploma,0.51,51
+2014,All Students,All Students,Juvenile Offender,Dropout,0.37,37
+2014,All Students,All Students,Juvenile Offender,GED,0.11,11
+2014,All Students,All Students,Juvenile Offender,HS Diploma,0.52,52
+2014,All Students,All Students,Not Justice Involved,Dropout,0.11,11
+2014,All Students,All Students,Not Justice Involved,GED,0.02,2
+2014,All Students,All Students,Not Justice Involved,HS Diploma,0.86,86
+2014,All Students,All Students,Status Offender,Dropout,0.53,53
+2014,All Students,All Students,Status Offender,GED,0.15,15
+2014,All Students,All Students,Status Offender,HS Diploma,0.33,33
+2014,Gender,F,Justice Involved,Dropout,0.35,35
+2014,Gender,F,Justice Involved,GED,0.1,10
+2014,Gender,F,Justice Involved,HS Diploma,0.56,56
+2014,Gender,F,Juvenile Offender,Dropout,0.34,34
+2014,Gender,F,Juvenile Offender,GED,0.1,10
+2014,Gender,F,Juvenile Offender,HS Diploma,0.56,56
+2014,Gender,F,Not Justice Involved,Dropout,0.1,10
+2014,Gender,F,Not Justice Involved,GED,0.02,2
+2014,Gender,F,Not Justice Involved,HS Diploma,0.88,88
+2014,Gender,F,Status Offender,Dropout,0.49,49
+2014,Gender,F,Status Offender,GED,0.14,14
+2014,Gender,F,Status Offender,HS Diploma,0.37,37
+2014,Gender,M,Justice Involved,Dropout,0.39,39
+2014,Gender,M,Justice Involved,GED,0.12,12
+2014,Gender,M,Justice Involved,HS Diploma,0.49,49
+2014,Gender,M,Juvenile Offender,Dropout,0.38,38
+2014,Gender,M,Juvenile Offender,GED,0.12,12
+2014,Gender,M,Juvenile Offender,HS Diploma,0.49,49
+2014,Gender,M,Not Justice Involved,Dropout,0.12,12
+2014,Gender,M,Not Justice Involved,GED,0.03,3
+2014,Gender,M,Not Justice Involved,HS Diploma,0.85,85
+2014,Gender,M,Status Offender,Dropout,0.56,56
+2014,Gender,M,Status Offender,GED,0.15,15
+2014,Gender,M,Status Offender,HS Diploma,0.3,30
+2014,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,Dropout,0.52,52
+2014,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,GED,0.15,15
+2014,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,HS Diploma,0.33,33
+2014,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,Dropout,0.53,53
+2014,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,GED,0.15,15
+2014,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,HS Diploma,0.33,33
+2014,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,Dropout,0.25,25
+2014,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,GED,0.05,5
+2014,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,HS Diploma,0.69,69
+2014,Race/Ethnicity,American Indian or Alaska Native,Status Offender,Dropout,,40-49
+2014,Race/Ethnicity,American Indian or Alaska Native,Status Offender,GED,,11-19
+2014,Race/Ethnicity,American Indian or Alaska Native,Status Offender,HS Diploma,,40-49
+2014,Race/Ethnicity,Asian,Justice Involved,Dropout,0.26,26
+2014,Race/Ethnicity,Asian,Justice Involved,GED,0.06,6
+2014,Race/Ethnicity,Asian,Justice Involved,HS Diploma,0.68,68
+2014,Race/Ethnicity,Asian,Juvenile Offender,Dropout,0.26,26
+2014,Race/Ethnicity,Asian,Juvenile Offender,GED,0.06,6
+2014,Race/Ethnicity,Asian,Juvenile Offender,HS Diploma,0.68,68
+2014,Race/Ethnicity,Asian,Not Justice Involved,Dropout,0.07,7
+2014,Race/Ethnicity,Asian,Not Justice Involved,GED,0.01,1
+2014,Race/Ethnicity,Asian,Not Justice Involved,HS Diploma,0.92,92
+2014,Race/Ethnicity,Asian,Status Offender,Dropout,,21-40
+2014,Race/Ethnicity,Asian,Status Offender,GED,,21-40
+2014,Race/Ethnicity,Asian,Status Offender,HS Diploma,,41-60
+2014,Race/Ethnicity,Black or African American,Justice Involved,Dropout,0.45,45
+2014,Race/Ethnicity,Black or African American,Justice Involved,GED,0.11,11
+2014,Race/Ethnicity,Black or African American,Justice Involved,HS Diploma,0.44,44
+2014,Race/Ethnicity,Black or African American,Juvenile Offender,Dropout,0.45,45
+2014,Race/Ethnicity,Black or African American,Juvenile Offender,GED,0.11,11
+2014,Race/Ethnicity,Black or African American,Juvenile Offender,HS Diploma,0.44,44
+2014,Race/Ethnicity,Black or African American,Not Justice Involved,Dropout,0.16,16
+2014,Race/Ethnicity,Black or African American,Not Justice Involved,GED,0.03,3
+2014,Race/Ethnicity,Black or African American,Not Justice Involved,HS Diploma,0.81,81
+2014,Race/Ethnicity,Black or African American,Status Offender,Dropout,,40-49
+2014,Race/Ethnicity,Black or African American,Status Offender,GED,,11-19
+2014,Race/Ethnicity,Black or African American,Status Offender,HS Diploma,,30-39
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,Dropout,0.34,34
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,GED,0.13,13
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,HS Diploma,0.53,53
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,Dropout,0.35,35
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,GED,0.12,12
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,HS Diploma,0.53,53
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,Dropout,0.11,11
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,GED,0.03,3
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,HS Diploma,0.86,86
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,Dropout,,20-29
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,GED,,20-29
+2014,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,HS Diploma,,50-59
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,Dropout,0.41,41
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,GED,0.1,10
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,HS Diploma,0.49,49
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,Dropout,0.4,40
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,GED,0.11,11
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,HS Diploma,0.5,50
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,Dropout,0.23,23
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,GED,0.02,2
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,HS Diploma,0.76,76
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,Dropout,,61-80
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,GED,,0-20
+2014,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,HS Diploma,,41-60
+2014,Race/Ethnicity,Not Provided - Race,Justice Involved,Dropout,,Redacted
+2014,Race/Ethnicity,Not Provided - Race,Justice Involved,GED,,Redacted
+2014,Race/Ethnicity,Not Provided - Race,Justice Involved,HS Diploma,,Redacted
+2014,Race/Ethnicity,Not Provided - Race,Juvenile Offender,Dropout,,Redacted
+2014,Race/Ethnicity,Not Provided - Race,Juvenile Offender,GED,,Redacted
+2014,Race/Ethnicity,Not Provided - Race,Juvenile Offender,HS Diploma,,Redacted
+2014,Race/Ethnicity,Not Provided - Race,Not Justice Involved,Dropout,,Redacted
+2014,Race/Ethnicity,Not Provided - Race,Not Justice Involved,GED,,Redacted
+2014,Race/Ethnicity,Not Provided - Race,Not Justice Involved,HS Diploma,,Redacted
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,Dropout,0.46,46
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,GED,0.08,8
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,HS Diploma,0.46,46
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,Dropout,0.44,44
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,GED,0.08,8
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,HS Diploma,0.47,47
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,Dropout,0.18,18
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,GED,0.03,3
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,HS Diploma,0.79,79
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,Dropout,0.68,68
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,GED,0.1,10
+2014,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,HS Diploma,0.23,23
+2014,Race/Ethnicity,White,Justice Involved,Dropout,0.33,33
+2014,Race/Ethnicity,White,Justice Involved,GED,0.13,13
+2014,Race/Ethnicity,White,Justice Involved,HS Diploma,0.55,55
+2014,Race/Ethnicity,White,Juvenile Offender,Dropout,0.32,32
+2014,Race/Ethnicity,White,Juvenile Offender,GED,0.12,12
+2014,Race/Ethnicity,White,Juvenile Offender,HS Diploma,0.55,55
+2014,Race/Ethnicity,White,Not Justice Involved,Dropout,0.09,9
+2014,Race/Ethnicity,White,Not Justice Involved,GED,0.03,3
+2014,Race/Ethnicity,White,Not Justice Involved,HS Diploma,0.88,88
+2014,Race/Ethnicity,White,Status Offender,Dropout,0.5,50
+2014,Race/Ethnicity,White,Status Offender,GED,0.16,16
+2014,Race/Ethnicity,White,Status Offender,HS Diploma,0.33,33
+2015,All Students,All Students,Justice Involved,Dropout,0.39,39
+2015,All Students,All Students,Justice Involved,GED,0.09,9
+2015,All Students,All Students,Justice Involved,HS Diploma,0.52,52
+2015,All Students,All Students,Juvenile Offender,Dropout,0.38,38
+2015,All Students,All Students,Juvenile Offender,GED,0.09,9
+2015,All Students,All Students,Juvenile Offender,HS Diploma,0.53,53
+2015,All Students,All Students,Not Justice Involved,Dropout,0.11,11
+2015,All Students,All Students,Not Justice Involved,GED,0.02,2
+2015,All Students,All Students,Not Justice Involved,HS Diploma,0.87,87
+2015,All Students,All Students,Status Offender,Dropout,0.59,59
+2015,All Students,All Students,Status Offender,GED,0.1,10
+2015,All Students,All Students,Status Offender,HS Diploma,0.31,31
+2015,Gender,F,Justice Involved,Dropout,0.34,34
+2015,Gender,F,Justice Involved,GED,0.08,8
+2015,Gender,F,Justice Involved,HS Diploma,0.58,58
+2015,Gender,F,Juvenile Offender,Dropout,0.33,33
+2015,Gender,F,Juvenile Offender,GED,0.08,8
+2015,Gender,F,Juvenile Offender,HS Diploma,0.59,59
+2015,Gender,F,Not Justice Involved,Dropout,0.1,10
+2015,Gender,F,Not Justice Involved,GED,0.02,2
+2015,Gender,F,Not Justice Involved,HS Diploma,0.88,88
+2015,Gender,F,Status Offender,Dropout,0.53,53
+2015,Gender,F,Status Offender,GED,0.09,9
+2015,Gender,F,Status Offender,HS Diploma,0.39,39
+2015,Gender,M,Justice Involved,Dropout,0.42,42
+2015,Gender,M,Justice Involved,GED,0.1,10
+2015,Gender,M,Justice Involved,HS Diploma,0.48,48
+2015,Gender,M,Juvenile Offender,Dropout,0.41,41
+2015,Gender,M,Juvenile Offender,GED,0.1,10
+2015,Gender,M,Juvenile Offender,HS Diploma,0.49,49
+2015,Gender,M,Not Justice Involved,Dropout,0.12,12
+2015,Gender,M,Not Justice Involved,GED,0.02,2
+2015,Gender,M,Not Justice Involved,HS Diploma,0.85,85
+2015,Gender,M,Status Offender,Dropout,0.64,64
+2015,Gender,M,Status Offender,GED,0.1,10
+2015,Gender,M,Status Offender,HS Diploma,0.26,26
+2015,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,Dropout,0.56,56
+2015,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,GED,0.12,12
+2015,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,HS Diploma,0.32,32
+2015,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,Dropout,0.56,56
+2015,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,GED,0.12,12
+2015,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,HS Diploma,0.32,32
+2015,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,Dropout,0.23,23
+2015,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,GED,0.04,4
+2015,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,HS Diploma,0.74,74
+2015,Race/Ethnicity,American Indian or Alaska Native,Status Offender,Dropout,,50-59
+2015,Race/Ethnicity,American Indian or Alaska Native,Status Offender,GED,,0-10
+2015,Race/Ethnicity,American Indian or Alaska Native,Status Offender,HS Diploma,,30-39
+2015,Race/Ethnicity,Asian,Justice Involved,Dropout,0.26,26
+2015,Race/Ethnicity,Asian,Justice Involved,GED,0.05,5
+2015,Race/Ethnicity,Asian,Justice Involved,HS Diploma,0.69,69
+2015,Race/Ethnicity,Asian,Juvenile Offender,Dropout,0.26,26
+2015,Race/Ethnicity,Asian,Juvenile Offender,GED,0.05,5
+2015,Race/Ethnicity,Asian,Juvenile Offender,HS Diploma,0.7,70
+2015,Race/Ethnicity,Asian,Not Justice Involved,Dropout,0.07,7
+2015,Race/Ethnicity,Asian,Not Justice Involved,GED,0.01,1
+2015,Race/Ethnicity,Asian,Not Justice Involved,HS Diploma,0.92,92
+2015,Race/Ethnicity,Asian,Status Offender,Dropout,,Redacted
+2015,Race/Ethnicity,Asian,Status Offender,GED,,Redacted
+2015,Race/Ethnicity,Asian,Status Offender,HS Diploma,,Redacted
+2015,Race/Ethnicity,Black or African American,Justice Involved,Dropout,0.42,42
+2015,Race/Ethnicity,Black or African American,Justice Involved,GED,0.09,9
+2015,Race/Ethnicity,Black or African American,Justice Involved,HS Diploma,0.49,49
+2015,Race/Ethnicity,Black or African American,Juvenile Offender,Dropout,0.42,42
+2015,Race/Ethnicity,Black or African American,Juvenile Offender,GED,0.09,9
+2015,Race/Ethnicity,Black or African American,Juvenile Offender,HS Diploma,0.49,49
+2015,Race/Ethnicity,Black or African American,Not Justice Involved,Dropout,0.16,16
+2015,Race/Ethnicity,Black or African American,Not Justice Involved,GED,0.02,2
+2015,Race/Ethnicity,Black or African American,Not Justice Involved,HS Diploma,0.82,82
+2015,Race/Ethnicity,Black or African American,Status Offender,Dropout,,41-60
+2015,Race/Ethnicity,Black or African American,Status Offender,GED,,0-20
+2015,Race/Ethnicity,Black or African American,Status Offender,HS Diploma,,41-60
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,Dropout,0.35,35
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,GED,0.12,12
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,HS Diploma,0.53,53
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,Dropout,0.34,34
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,GED,0.12,12
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,HS Diploma,0.54,54
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,Dropout,0.1,10
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,GED,0.03,3
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,HS Diploma,0.87,87
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,Dropout,,60-69
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,GED,,11-19
+2015,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,HS Diploma,,20-29
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,Dropout,,50-54
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,GED,,5-9
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,HS Diploma,,35-39
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,Dropout,,50-54
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,GED,,5-9
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,HS Diploma,,35-39
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,Dropout,0.22,22
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,GED,,0-1
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,HS Diploma,0.77,77
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,Dropout,,Redacted
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,GED,,Redacted
+2015,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,HS Diploma,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Justice Involved,Dropout,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Justice Involved,GED,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Justice Involved,HS Diploma,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Juvenile Offender,Dropout,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Juvenile Offender,GED,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Juvenile Offender,HS Diploma,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Not Justice Involved,Dropout,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Not Justice Involved,GED,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Not Justice Involved,HS Diploma,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Status Offender,Dropout,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Status Offender,GED,,Redacted
+2015,Race/Ethnicity,Not Provided - Race,Status Offender,HS Diploma,,Redacted
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,Dropout,0.44,44
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,GED,0.07,7
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,HS Diploma,0.49,49
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,Dropout,0.43,43
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,GED,0.07,7
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,HS Diploma,0.5,50
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,Dropout,0.17,17
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,GED,0.02,2
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,HS Diploma,0.81,81
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,Dropout,,60-64
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,GED,,5-9
+2015,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,HS Diploma,,30-34
+2015,Race/Ethnicity,White,Justice Involved,Dropout,0.36,36
+2015,Race/Ethnicity,White,Justice Involved,GED,0.1,10
+2015,Race/Ethnicity,White,Justice Involved,HS Diploma,0.54,54
+2015,Race/Ethnicity,White,Juvenile Offender,Dropout,0.35,35
+2015,Race/Ethnicity,White,Juvenile Offender,GED,0.1,10
+2015,Race/Ethnicity,White,Juvenile Offender,HS Diploma,0.55,55
+2015,Race/Ethnicity,White,Not Justice Involved,Dropout,0.09,9
+2015,Race/Ethnicity,White,Not Justice Involved,GED,0.02,2
+2015,Race/Ethnicity,White,Not Justice Involved,HS Diploma,0.88,88
+2015,Race/Ethnicity,White,Status Offender,Dropout,0.58,58
+2015,Race/Ethnicity,White,Status Offender,GED,0.12,12
+2015,Race/Ethnicity,White,Status Offender,HS Diploma,0.3,30
+2016,All Students,All Students,Justice Involved,Dropout,0.4,40
+2016,All Students,All Students,Justice Involved,GED,0.08,8
+2016,All Students,All Students,Justice Involved,HS Diploma,0.52,52
+2016,All Students,All Students,Juvenile Offender,Dropout,0.39,39
+2016,All Students,All Students,Juvenile Offender,GED,0.08,8
+2016,All Students,All Students,Juvenile Offender,HS Diploma,0.53,53
+2016,All Students,All Students,Not Justice Involved,Dropout,0.11,11
+2016,All Students,All Students,Not Justice Involved,GED,0.02,2
+2016,All Students,All Students,Not Justice Involved,HS Diploma,0.87,87
+2016,All Students,All Students,Status Offender,Dropout,0.54,54
+2016,All Students,All Students,Status Offender,GED,0.09,9
+2016,All Students,All Students,Status Offender,HS Diploma,0.37,37
+2016,Gender,F,Justice Involved,Dropout,0.37,37
+2016,Gender,F,Justice Involved,GED,0.07,7
+2016,Gender,F,Justice Involved,HS Diploma,0.56,56
+2016,Gender,F,Juvenile Offender,Dropout,0.37,37
+2016,Gender,F,Juvenile Offender,GED,0.06,6
+2016,Gender,F,Juvenile Offender,HS Diploma,0.57,57
+2016,Gender,F,Not Justice Involved,Dropout,0.1,10
+2016,Gender,F,Not Justice Involved,GED,0.02,2
+2016,Gender,F,Not Justice Involved,HS Diploma,0.89,89
+2016,Gender,F,Status Offender,Dropout,0.46,46
+2016,Gender,F,Status Offender,GED,0.1,10
+2016,Gender,F,Status Offender,HS Diploma,0.44,44
+2016,Gender,M,Justice Involved,Dropout,0.41,41
+2016,Gender,M,Justice Involved,GED,0.09,9
+2016,Gender,M,Justice Involved,HS Diploma,0.5,50
+2016,Gender,M,Juvenile Offender,Dropout,0.41,41
+2016,Gender,M,Juvenile Offender,GED,0.09,9
+2016,Gender,M,Juvenile Offender,HS Diploma,0.51,51
+2016,Gender,M,Not Justice Involved,Dropout,0.12,12
+2016,Gender,M,Not Justice Involved,GED,0.02,2
+2016,Gender,M,Not Justice Involved,HS Diploma,0.86,86
+2016,Gender,M,Status Offender,Dropout,0.58,58
+2016,Gender,M,Status Offender,GED,0.08,8
+2016,Gender,M,Status Offender,HS Diploma,0.34,34
+2016,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,Dropout,0.53,53
+2016,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,GED,0.12,12
+2016,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,HS Diploma,0.36,36
+2016,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,Dropout,0.52,52
+2016,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,GED,0.12,12
+2016,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,HS Diploma,0.36,36
+2016,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,Dropout,0.22,22
+2016,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,GED,0.04,4
+2016,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,HS Diploma,0.74,74
+2016,Race/Ethnicity,American Indian or Alaska Native,Status Offender,Dropout,,61-80
+2016,Race/Ethnicity,American Indian or Alaska Native,Status Offender,GED,,0-20
+2016,Race/Ethnicity,American Indian or Alaska Native,Status Offender,HS Diploma,,21-40
+2016,Race/Ethnicity,Asian,Justice Involved,Dropout,0.28,28
+2016,Race/Ethnicity,Asian,Justice Involved,GED,0.05,5
+2016,Race/Ethnicity,Asian,Justice Involved,HS Diploma,0.66,66
+2016,Race/Ethnicity,Asian,Juvenile Offender,Dropout,0.27,27
+2016,Race/Ethnicity,Asian,Juvenile Offender,GED,0.05,5
+2016,Race/Ethnicity,Asian,Juvenile Offender,HS Diploma,0.69,69
+2016,Race/Ethnicity,Asian,Not Justice Involved,Dropout,0.07,7
+2016,Race/Ethnicity,Asian,Not Justice Involved,GED,0.01,1
+2016,Race/Ethnicity,Asian,Not Justice Involved,HS Diploma,0.92,92
+2016,Race/Ethnicity,Asian,Status Offender,Dropout,,41-60
+2016,Race/Ethnicity,Asian,Status Offender,GED,,0-20
+2016,Race/Ethnicity,Asian,Status Offender,HS Diploma,,21-40
+2016,Race/Ethnicity,Black or African American,Justice Involved,Dropout,0.44,44
+2016,Race/Ethnicity,Black or African American,Justice Involved,GED,0.08,8
+2016,Race/Ethnicity,Black or African American,Justice Involved,HS Diploma,0.49,49
+2016,Race/Ethnicity,Black or African American,Juvenile Offender,Dropout,0.44,44
+2016,Race/Ethnicity,Black or African American,Juvenile Offender,GED,0.08,8
+2016,Race/Ethnicity,Black or African American,Juvenile Offender,HS Diploma,0.49,49
+2016,Race/Ethnicity,Black or African American,Not Justice Involved,Dropout,0.15,15
+2016,Race/Ethnicity,Black or African American,Not Justice Involved,GED,0.02,2
+2016,Race/Ethnicity,Black or African American,Not Justice Involved,HS Diploma,0.84,84
+2016,Race/Ethnicity,Black or African American,Status Offender,Dropout,,50-59
+2016,Race/Ethnicity,Black or African American,Status Offender,GED,,0-10
+2016,Race/Ethnicity,Black or African American,Status Offender,HS Diploma,,40-49
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,Dropout,0.38,38
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,GED,0.1,10
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,HS Diploma,0.53,53
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,Dropout,0.38,38
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,GED,0.09,9
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,HS Diploma,0.52,52
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,Dropout,0.1,10
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,GED,0.02,2
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,HS Diploma,0.87,87
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,Dropout,,30-39
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,GED,,11-19
+2016,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,HS Diploma,,50-59
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,Dropout,,50-54
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,GED,,3-4
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,HS Diploma,,40-44
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,Dropout,,50-54
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,GED,,3-4
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,HS Diploma,,40-44
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,Dropout,0.21,21
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,GED,0.02,2
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,HS Diploma,0.77,77
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,Dropout,,Redacted
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,GED,,Redacted
+2016,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,HS Diploma,,Redacted
+2016,Race/Ethnicity,Not Provided - Race,Justice Involved,Dropout,,Redacted
+2016,Race/Ethnicity,Not Provided - Race,Justice Involved,GED,,Redacted
+2016,Race/Ethnicity,Not Provided - Race,Justice Involved,HS Diploma,,Redacted
+2016,Race/Ethnicity,Not Provided - Race,Juvenile Offender,Dropout,,Redacted
+2016,Race/Ethnicity,Not Provided - Race,Juvenile Offender,GED,,Redacted
+2016,Race/Ethnicity,Not Provided - Race,Juvenile Offender,HS Diploma,,Redacted
+2016,Race/Ethnicity,Not Provided - Race,Not Justice Involved,Dropout,,Redacted
+2016,Race/Ethnicity,Not Provided - Race,Not Justice Involved,GED,,Redacted
+2016,Race/Ethnicity,Not Provided - Race,Not Justice Involved,HS Diploma,,Redacted
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,Dropout,0.45,45
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,GED,0.06,6
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,HS Diploma,0.49,49
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,Dropout,0.44,44
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,GED,0.06,6
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,HS Diploma,0.5,50
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,Dropout,0.16,16
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,GED,0.02,2
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,HS Diploma,0.82,82
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,Dropout,0.57,57
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,GED,0.08,8
+2016,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,HS Diploma,0.35,35
+2016,Race/Ethnicity,White,Justice Involved,Dropout,0.37,37
+2016,Race/Ethnicity,White,Justice Involved,GED,0.09,9
+2016,Race/Ethnicity,White,Justice Involved,HS Diploma,0.54,54
+2016,Race/Ethnicity,White,Juvenile Offender,Dropout,0.36,36
+2016,Race/Ethnicity,White,Juvenile Offender,GED,0.09,9
+2016,Race/Ethnicity,White,Juvenile Offender,HS Diploma,0.55,55
+2016,Race/Ethnicity,White,Not Justice Involved,Dropout,0.09,9
+2016,Race/Ethnicity,White,Not Justice Involved,GED,0.02,2
+2016,Race/Ethnicity,White,Not Justice Involved,HS Diploma,0.89,89
+2016,Race/Ethnicity,White,Status Offender,Dropout,0.54,54
+2016,Race/Ethnicity,White,Status Offender,GED,0.1,10
+2016,Race/Ethnicity,White,Status Offender,HS Diploma,0.36,36
+2017,All Students,All Students,Justice Involved,Dropout,0.41,41
+2017,All Students,All Students,Justice Involved,GED,0.08,8
+2017,All Students,All Students,Justice Involved,HS Diploma,0.5,50
+2017,All Students,All Students,Juvenile Offender,Dropout,0.41,41
+2017,All Students,All Students,Juvenile Offender,GED,0.08,8
+2017,All Students,All Students,Juvenile Offender,HS Diploma,0.51,51
+2017,All Students,All Students,Not Justice Involved,Dropout,0.12,12
+2017,All Students,All Students,Not Justice Involved,GED,0.02,2
+2017,All Students,All Students,Not Justice Involved,HS Diploma,0.86,86
+2017,All Students,All Students,Status Offender,Dropout,0.54,54
+2017,All Students,All Students,Status Offender,GED,0.09,9
+2017,All Students,All Students,Status Offender,HS Diploma,0.38,38
+2017,Gender,F,Justice Involved,Dropout,0.39,39
+2017,Gender,F,Justice Involved,GED,0.07,7
+2017,Gender,F,Justice Involved,HS Diploma,0.54,54
+2017,Gender,F,Juvenile Offender,Dropout,0.38,38
+2017,Gender,F,Juvenile Offender,GED,0.07,7
+2017,Gender,F,Juvenile Offender,HS Diploma,0.54,54
+2017,Gender,F,Not Justice Involved,Dropout,0.1,10
+2017,Gender,F,Not Justice Involved,GED,0.02,2
+2017,Gender,F,Not Justice Involved,HS Diploma,0.88,88
+2017,Gender,F,Status Offender,Dropout,0.52,52
+2017,Gender,F,Status Offender,GED,0.07,7
+2017,Gender,F,Status Offender,HS Diploma,0.41,41
+2017,Gender,M,Justice Involved,Dropout,0.43,43
+2017,Gender,M,Justice Involved,GED,0.09,9
+2017,Gender,M,Justice Involved,HS Diploma,0.48,48
+2017,Gender,M,Juvenile Offender,Dropout,0.42,42
+2017,Gender,M,Juvenile Offender,GED,0.09,9
+2017,Gender,M,Juvenile Offender,HS Diploma,0.49,49
+2017,Gender,M,Not Justice Involved,Dropout,0.13,13
+2017,Gender,M,Not Justice Involved,GED,0.02,2
+2017,Gender,M,Not Justice Involved,HS Diploma,0.85,85
+2017,Gender,M,Status Offender,Dropout,0.55,55
+2017,Gender,M,Status Offender,GED,0.1,10
+2017,Gender,M,Status Offender,HS Diploma,0.35,35
+2017,Gender,X,Not Justice Involved,Dropout,,Redacted
+2017,Gender,X,Not Justice Involved,GED,,Redacted
+2017,Gender,X,Not Justice Involved,HS Diploma,,Redacted
+2017,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,Dropout,0.52,52
+2017,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,GED,0.1,10
+2017,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,HS Diploma,0.37,37
+2017,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,Dropout,0.51,51
+2017,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,GED,0.1,10
+2017,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,HS Diploma,0.39,39
+2017,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,Dropout,0.25,25
+2017,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,GED,0.03,3
+2017,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,HS Diploma,0.72,72
+2017,Race/Ethnicity,American Indian or Alaska Native,Status Offender,Dropout,,60-69
+2017,Race/Ethnicity,American Indian or Alaska Native,Status Offender,GED,,11-19
+2017,Race/Ethnicity,American Indian or Alaska Native,Status Offender,HS Diploma,,11-19
+2017,Race/Ethnicity,Asian,Justice Involved,Dropout,0.32,32
+2017,Race/Ethnicity,Asian,Justice Involved,GED,0.05,5
+2017,Race/Ethnicity,Asian,Justice Involved,HS Diploma,0.63,63
+2017,Race/Ethnicity,Asian,Juvenile Offender,Dropout,,30-34
+2017,Race/Ethnicity,Asian,Juvenile Offender,GED,,3-4
+2017,Race/Ethnicity,Asian,Juvenile Offender,HS Diploma,,60-64
+2017,Race/Ethnicity,Asian,Not Justice Involved,Dropout,0.08,8
+2017,Race/Ethnicity,Asian,Not Justice Involved,GED,0.01,1
+2017,Race/Ethnicity,Asian,Not Justice Involved,HS Diploma,0.91,91
+2017,Race/Ethnicity,Asian,Status Offender,Dropout,,Redacted
+2017,Race/Ethnicity,Asian,Status Offender,GED,,Redacted
+2017,Race/Ethnicity,Asian,Status Offender,HS Diploma,,Redacted
+2017,Race/Ethnicity,Black or African American,Justice Involved,Dropout,0.46,46
+2017,Race/Ethnicity,Black or African American,Justice Involved,GED,0.08,8
+2017,Race/Ethnicity,Black or African American,Justice Involved,HS Diploma,0.46,46
+2017,Race/Ethnicity,Black or African American,Juvenile Offender,Dropout,0.46,46
+2017,Race/Ethnicity,Black or African American,Juvenile Offender,GED,0.08,8
+2017,Race/Ethnicity,Black or African American,Juvenile Offender,HS Diploma,0.46,46
+2017,Race/Ethnicity,Black or African American,Not Justice Involved,Dropout,0.18,18
+2017,Race/Ethnicity,Black or African American,Not Justice Involved,GED,0.01,1
+2017,Race/Ethnicity,Black or African American,Not Justice Involved,HS Diploma,0.81,81
+2017,Race/Ethnicity,Black or African American,Status Offender,Dropout,,60-69
+2017,Race/Ethnicity,Black or African American,Status Offender,GED,,0-10
+2017,Race/Ethnicity,Black or African American,Status Offender,HS Diploma,,20-29
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,Dropout,0.43,43
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,GED,0.08,8
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,HS Diploma,0.49,49
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,Dropout,0.43,43
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,GED,0.09,9
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,HS Diploma,0.49,49
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,Dropout,0.11,11
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,GED,0.02,2
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,HS Diploma,0.87,87
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,Dropout,,50-59
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,GED,,0-10
+2017,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,HS Diploma,,40-49
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,Dropout,,55-59
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,GED,,6-9
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,HS Diploma,,35-39
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,Dropout,,55-59
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,GED,,0-5
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,HS Diploma,,35-39
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,Dropout,0.23,23
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,GED,,0-1
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,HS Diploma,0.76,76
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,Dropout,,Redacted
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,GED,,Redacted
+2017,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,HS Diploma,,Redacted
+2017,Race/Ethnicity,Not Provided - Race,Justice Involved,Dropout,,Redacted
+2017,Race/Ethnicity,Not Provided - Race,Justice Involved,GED,,Redacted
+2017,Race/Ethnicity,Not Provided - Race,Justice Involved,HS Diploma,,Redacted
+2017,Race/Ethnicity,Not Provided - Race,Juvenile Offender,Dropout,,Redacted
+2017,Race/Ethnicity,Not Provided - Race,Juvenile Offender,GED,,Redacted
+2017,Race/Ethnicity,Not Provided - Race,Juvenile Offender,HS Diploma,,Redacted
+2017,Race/Ethnicity,Not Provided - Race,Not Justice Involved,Dropout,,61-80
+2017,Race/Ethnicity,Not Provided - Race,Not Justice Involved,GED,,0-20
+2017,Race/Ethnicity,Not Provided - Race,Not Justice Involved,HS Diploma,,0-20
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,Dropout,0.47,47
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,GED,0.07,7
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,HS Diploma,0.46,46
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,Dropout,0.46,46
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,GED,0.07,7
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,HS Diploma,0.47,47
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,Dropout,0.16,16
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,GED,0.02,2
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,HS Diploma,0.82,82
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,Dropout,0.56,56
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,GED,0.07,7
+2017,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,HS Diploma,0.37,37
+2017,Race/Ethnicity,White,Justice Involved,Dropout,0.37,37
+2017,Race/Ethnicity,White,Justice Involved,GED,0.09,9
+2017,Race/Ethnicity,White,Justice Involved,HS Diploma,0.54,54
+2017,Race/Ethnicity,White,Juvenile Offender,Dropout,0.37,37
+2017,Race/Ethnicity,White,Juvenile Offender,GED,0.09,9
+2017,Race/Ethnicity,White,Juvenile Offender,HS Diploma,0.54,54
+2017,Race/Ethnicity,White,Not Justice Involved,Dropout,0.1,10
+2017,Race/Ethnicity,White,Not Justice Involved,GED,0.02,2
+2017,Race/Ethnicity,White,Not Justice Involved,HS Diploma,0.88,88
+2017,Race/Ethnicity,White,Status Offender,Dropout,0.48,48
+2017,Race/Ethnicity,White,Status Offender,GED,0.1,10
+2017,Race/Ethnicity,White,Status Offender,HS Diploma,0.41,41
+2018,All Students,All Students,Justice Involved,Dropout,0.44,44
+2018,All Students,All Students,Justice Involved,GED,0.07,7
+2018,All Students,All Students,Justice Involved,HS Diploma,0.48,48
+2018,All Students,All Students,Juvenile Offender,Dropout,0.43,43
+2018,All Students,All Students,Juvenile Offender,GED,0.07,7
+2018,All Students,All Students,Juvenile Offender,HS Diploma,0.49,49
+2018,All Students,All Students,Not Justice Involved,Dropout,0.12,12
+2018,All Students,All Students,Not Justice Involved,GED,0.02,2
+2018,All Students,All Students,Not Justice Involved,HS Diploma,0.86,86
+2018,All Students,All Students,Status Offender,Dropout,0.61,61
+2018,All Students,All Students,Status Offender,GED,0.06,6
+2018,All Students,All Students,Status Offender,HS Diploma,0.33,33
+2018,Gender,F,Justice Involved,Dropout,0.42,42
+2018,Gender,F,Justice Involved,GED,0.06,6
+2018,Gender,F,Justice Involved,HS Diploma,0.52,52
+2018,Gender,F,Juvenile Offender,Dropout,0.41,41
+2018,Gender,F,Juvenile Offender,GED,0.06,6
+2018,Gender,F,Juvenile Offender,HS Diploma,0.53,53
+2018,Gender,F,Not Justice Involved,Dropout,0.11,11
+2018,Gender,F,Not Justice Involved,GED,0.01,1
+2018,Gender,F,Not Justice Involved,HS Diploma,0.88,88
+2018,Gender,F,Status Offender,Dropout,0.55,55
+2018,Gender,F,Status Offender,GED,0.08,8
+2018,Gender,F,Status Offender,HS Diploma,0.37,37
+2018,Gender,M,Justice Involved,Dropout,0.45,45
+2018,Gender,M,Justice Involved,GED,0.08,8
+2018,Gender,M,Justice Involved,HS Diploma,0.46,46
+2018,Gender,M,Juvenile Offender,Dropout,0.44,44
+2018,Gender,M,Juvenile Offender,GED,0.08,8
+2018,Gender,M,Juvenile Offender,HS Diploma,0.47,47
+2018,Gender,M,Not Justice Involved,Dropout,0.14,14
+2018,Gender,M,Not Justice Involved,GED,0.02,2
+2018,Gender,M,Not Justice Involved,HS Diploma,0.84,84
+2018,Gender,M,Status Offender,Dropout,0.65,65
+2018,Gender,M,Status Offender,GED,0.04,4
+2018,Gender,M,Status Offender,HS Diploma,0.31,31
+2018,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,Dropout,0.61,61
+2018,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,GED,0.07,7
+2018,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,HS Diploma,0.32,32
+2018,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,Dropout,0.6,60
+2018,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,GED,0.07,7
+2018,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,HS Diploma,0.33,33
+2018,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,Dropout,0.26,26
+2018,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,GED,0.02,2
+2018,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,HS Diploma,0.72,72
+2018,Race/Ethnicity,American Indian or Alaska Native,Status Offender,Dropout,,61-80
+2018,Race/Ethnicity,American Indian or Alaska Native,Status Offender,GED,,0-20
+2018,Race/Ethnicity,American Indian or Alaska Native,Status Offender,HS Diploma,,0-20
+2018,Race/Ethnicity,Asian,Justice Involved,Dropout,0.24,24
+2018,Race/Ethnicity,Asian,Justice Involved,GED,0.05,5
+2018,Race/Ethnicity,Asian,Justice Involved,HS Diploma,0.71,71
+2018,Race/Ethnicity,Asian,Juvenile Offender,Dropout,0.22,22
+2018,Race/Ethnicity,Asian,Juvenile Offender,GED,0.06,6
+2018,Race/Ethnicity,Asian,Juvenile Offender,HS Diploma,0.72,72
+2018,Race/Ethnicity,Asian,Not Justice Involved,Dropout,0.08,8
+2018,Race/Ethnicity,Asian,Not Justice Involved,GED,,0-1
+2018,Race/Ethnicity,Asian,Not Justice Involved,HS Diploma,0.92,92
+2018,Race/Ethnicity,Asian,Status Offender,Dropout,,41-60
+2018,Race/Ethnicity,Asian,Status Offender,GED,,0-20
+2018,Race/Ethnicity,Asian,Status Offender,HS Diploma,,41-60
+2018,Race/Ethnicity,Black or African American,Justice Involved,Dropout,0.47,47
+2018,Race/Ethnicity,Black or African American,Justice Involved,GED,0.06,6
+2018,Race/Ethnicity,Black or African American,Justice Involved,HS Diploma,0.47,47
+2018,Race/Ethnicity,Black or African American,Juvenile Offender,Dropout,0.47,47
+2018,Race/Ethnicity,Black or African American,Juvenile Offender,GED,0.06,6
+2018,Race/Ethnicity,Black or African American,Juvenile Offender,HS Diploma,0.47,47
+2018,Race/Ethnicity,Black or African American,Not Justice Involved,Dropout,0.16,16
+2018,Race/Ethnicity,Black or African American,Not Justice Involved,GED,0.01,1
+2018,Race/Ethnicity,Black or African American,Not Justice Involved,HS Diploma,0.83,83
+2018,Race/Ethnicity,Black or African American,Status Offender,Dropout,,50-59
+2018,Race/Ethnicity,Black or African American,Status Offender,GED,,0-10
+2018,Race/Ethnicity,Black or African American,Status Offender,HS Diploma,,40-49
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,Dropout,0.43,43
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,GED,0.07,7
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,HS Diploma,0.5,50
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,Dropout,0.43,43
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,GED,0.07,7
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,HS Diploma,0.5,50
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,Dropout,0.12,12
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,GED,0.02,2
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,HS Diploma,0.86,86
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,Dropout,,50-59
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,GED,,0-10
+2018,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,HS Diploma,,40-49
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,Dropout,,50-54
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,GED,,3-4
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,HS Diploma,,40-44
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,Dropout,,50-54
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,GED,,0-5
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,HS Diploma,,45-49
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,Dropout,0.19,19
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,GED,,0-1
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,HS Diploma,0.8,80
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,Dropout,,61-80
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,GED,,0-20
+2018,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,HS Diploma,,21-40
+2018,Race/Ethnicity,Not Provided - Race,Justice Involved,Dropout,,Redacted
+2018,Race/Ethnicity,Not Provided - Race,Justice Involved,GED,,Redacted
+2018,Race/Ethnicity,Not Provided - Race,Justice Involved,HS Diploma,,Redacted
+2018,Race/Ethnicity,Not Provided - Race,Juvenile Offender,Dropout,,Redacted
+2018,Race/Ethnicity,Not Provided - Race,Juvenile Offender,GED,,Redacted
+2018,Race/Ethnicity,Not Provided - Race,Juvenile Offender,HS Diploma,,Redacted
+2018,Race/Ethnicity,Not Provided - Race,Not Justice Involved,Dropout,,Redacted
+2018,Race/Ethnicity,Not Provided - Race,Not Justice Involved,GED,,Redacted
+2018,Race/Ethnicity,Not Provided - Race,Not Justice Involved,HS Diploma,,Redacted
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,Dropout,0.5,50
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,GED,0.05,5
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,HS Diploma,0.46,46
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,Dropout,0.48,48
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,GED,0.05,5
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,HS Diploma,0.47,47
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,Dropout,0.17,17
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,GED,0.01,1
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,HS Diploma,0.82,82
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,Dropout,,65-69
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,GED,,0-2
+2018,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,HS Diploma,,30-34
+2018,Race/Ethnicity,White,Justice Involved,Dropout,0.41,41
+2018,Race/Ethnicity,White,Justice Involved,GED,0.09,9
+2018,Race/Ethnicity,White,Justice Involved,HS Diploma,0.5,50
+2018,Race/Ethnicity,White,Juvenile Offender,Dropout,0.4,40
+2018,Race/Ethnicity,White,Juvenile Offender,GED,0.09,9
+2018,Race/Ethnicity,White,Juvenile Offender,HS Diploma,0.51,51
+2018,Race/Ethnicity,White,Not Justice Involved,Dropout,0.11,11
+2018,Race/Ethnicity,White,Not Justice Involved,GED,0.02,2
+2018,Race/Ethnicity,White,Not Justice Involved,HS Diploma,0.88,88
+2018,Race/Ethnicity,White,Status Offender,Dropout,0.54,54
+2018,Race/Ethnicity,White,Status Offender,GED,0.1,10
+2018,Race/Ethnicity,White,Status Offender,HS Diploma,0.36,36
+2019,All Students,All Students,Justice Involved,Dropout,0.5,50
+2019,All Students,All Students,Justice Involved,GED,0.06,6
+2019,All Students,All Students,Justice Involved,HS Diploma,0.43,43
+2019,All Students,All Students,Juvenile Offender,Dropout,0.5,50
+2019,All Students,All Students,Juvenile Offender,GED,0.06,6
+2019,All Students,All Students,Juvenile Offender,HS Diploma,0.44,44
+2019,All Students,All Students,Not Justice Involved,Dropout,0.16,16
+2019,All Students,All Students,Not Justice Involved,GED,0.01,1
+2019,All Students,All Students,Not Justice Involved,HS Diploma,0.83,83
+2019,All Students,All Students,Status Offender,Dropout,0.63,63
+2019,All Students,All Students,Status Offender,GED,0.05,5
+2019,All Students,All Students,Status Offender,HS Diploma,0.32,32
+2019,Gender,F,Justice Involved,Dropout,0.5,50
+2019,Gender,F,Justice Involved,GED,0.05,5
+2019,Gender,F,Justice Involved,HS Diploma,0.45,45
+2019,Gender,F,Juvenile Offender,Dropout,0.49,49
+2019,Gender,F,Juvenile Offender,GED,0.05,5
+2019,Gender,F,Juvenile Offender,HS Diploma,0.46,46
+2019,Gender,F,Not Justice Involved,Dropout,0.14,14
+2019,Gender,F,Not Justice Involved,GED,0.01,1
+2019,Gender,F,Not Justice Involved,HS Diploma,0.85,85
+2019,Gender,F,Status Offender,Dropout,,60-64
+2019,Gender,F,Status Offender,GED,,3-4
+2019,Gender,F,Status Offender,HS Diploma,,30-34
+2019,Gender,M,Justice Involved,Dropout,0.51,51
+2019,Gender,M,Justice Involved,GED,0.07,7
+2019,Gender,M,Justice Involved,HS Diploma,0.42,42
+2019,Gender,M,Juvenile Offender,Dropout,0.5,50
+2019,Gender,M,Juvenile Offender,GED,0.07,7
+2019,Gender,M,Juvenile Offender,HS Diploma,0.43,43
+2019,Gender,M,Not Justice Involved,Dropout,0.17,17
+2019,Gender,M,Not Justice Involved,GED,0.02,2
+2019,Gender,M,Not Justice Involved,HS Diploma,0.81,81
+2019,Gender,M,Status Offender,Dropout,0.65,65
+2019,Gender,M,Status Offender,GED,0.05,5
+2019,Gender,M,Status Offender,HS Diploma,0.3,30
+2019,Gender,X,Justice Involved,Dropout,,Redacted
+2019,Gender,X,Justice Involved,GED,,Redacted
+2019,Gender,X,Justice Involved,HS Diploma,,Redacted
+2019,Gender,X,Juvenile Offender,Dropout,,Redacted
+2019,Gender,X,Juvenile Offender,GED,,Redacted
+2019,Gender,X,Juvenile Offender,HS Diploma,,Redacted
+2019,Gender,X,Not Justice Involved,Dropout,,Redacted
+2019,Gender,X,Not Justice Involved,GED,,Redacted
+2019,Gender,X,Not Justice Involved,HS Diploma,,Redacted
+2019,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,Dropout,0.64,64
+2019,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,GED,0.07,7
+2019,Race/Ethnicity,American Indian or Alaska Native,Justice Involved,HS Diploma,0.3,30
+2019,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,Dropout,0.63,63
+2019,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,GED,0.07,7
+2019,Race/Ethnicity,American Indian or Alaska Native,Juvenile Offender,HS Diploma,0.3,30
+2019,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,Dropout,0.31,31
+2019,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,GED,0.02,2
+2019,Race/Ethnicity,American Indian or Alaska Native,Not Justice Involved,HS Diploma,0.67,67
+2019,Race/Ethnicity,American Indian or Alaska Native,Status Offender,Dropout,,Redacted
+2019,Race/Ethnicity,American Indian or Alaska Native,Status Offender,GED,,Redacted
+2019,Race/Ethnicity,American Indian or Alaska Native,Status Offender,HS Diploma,,Redacted
+2019,Race/Ethnicity,Asian,Justice Involved,Dropout,,35-39
+2019,Race/Ethnicity,Asian,Justice Involved,GED,,3-4
+2019,Race/Ethnicity,Asian,Justice Involved,HS Diploma,,55-59
+2019,Race/Ethnicity,Asian,Juvenile Offender,Dropout,,35-39
+2019,Race/Ethnicity,Asian,Juvenile Offender,GED,,3-4
+2019,Race/Ethnicity,Asian,Juvenile Offender,HS Diploma,,55-59
+2019,Race/Ethnicity,Asian,Not Justice Involved,Dropout,0.1,10
+2019,Race/Ethnicity,Asian,Not Justice Involved,GED,,0-1
+2019,Race/Ethnicity,Asian,Not Justice Involved,HS Diploma,0.9,90
+2019,Race/Ethnicity,Asian,Status Offender,Dropout,,21-40
+2019,Race/Ethnicity,Asian,Status Offender,GED,,0-20
+2019,Race/Ethnicity,Asian,Status Offender,HS Diploma,,41-60
+2019,Race/Ethnicity,Black or African American,Justice Involved,Dropout,0.57,57
+2019,Race/Ethnicity,Black or African American,Justice Involved,GED,0.06,6
+2019,Race/Ethnicity,Black or African American,Justice Involved,HS Diploma,0.36,36
+2019,Race/Ethnicity,Black or African American,Juvenile Offender,Dropout,0.57,57
+2019,Race/Ethnicity,Black or African American,Juvenile Offender,GED,0.06,6
+2019,Race/Ethnicity,Black or African American,Juvenile Offender,HS Diploma,0.36,36
+2019,Race/Ethnicity,Black or African American,Not Justice Involved,Dropout,0.21,21
+2019,Race/Ethnicity,Black or African American,Not Justice Involved,GED,0.01,1
+2019,Race/Ethnicity,Black or African American,Not Justice Involved,HS Diploma,0.78,78
+2019,Race/Ethnicity,Black or African American,Status Offender,Dropout,,50-59
+2019,Race/Ethnicity,Black or African American,Status Offender,GED,,11-19
+2019,Race/Ethnicity,Black or African American,Status Offender,HS Diploma,,30-39
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,Dropout,0.48,48
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,GED,0.06,6
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Justice Involved,HS Diploma,0.46,46
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,Dropout,0.47,47
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,GED,0.06,6
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Juvenile Offender,HS Diploma,0.47,47
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,Dropout,0.15,15
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,GED,0.02,2
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Not Justice Involved,HS Diploma,0.84,84
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,Dropout,,50-59
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,GED,,11-19
+2019,Race/Ethnicity,Multiple Races (Details Unknown),Status Offender,HS Diploma,,30-39
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,Dropout,,60-64
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,GED,,0-5
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Justice Involved,HS Diploma,,30-34
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,Dropout,,60-64
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,GED,,0-5
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Juvenile Offender,HS Diploma,,30-34
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,Dropout,0.24,24
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,GED,,0-1
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Not Justice Involved,HS Diploma,0.75,75
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,Dropout,,Redacted
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,GED,,Redacted
+2019,Race/Ethnicity,Native Hawaiian and Other Pacific Islander,Status Offender,HS Diploma,,Redacted
+2019,Race/Ethnicity,Not Provided - Race,Justice Involved,Dropout,,Redacted
+2019,Race/Ethnicity,Not Provided - Race,Justice Involved,GED,,Redacted
+2019,Race/Ethnicity,Not Provided - Race,Justice Involved,HS Diploma,,Redacted
+2019,Race/Ethnicity,Not Provided - Race,Juvenile Offender,Dropout,,Redacted
+2019,Race/Ethnicity,Not Provided - Race,Juvenile Offender,GED,,Redacted
+2019,Race/Ethnicity,Not Provided - Race,Juvenile Offender,HS Diploma,,Redacted
+2019,Race/Ethnicity,Not Provided - Race,Not Justice Involved,Dropout,,0-20
+2019,Race/Ethnicity,Not Provided - Race,Not Justice Involved,GED,,0-20
+2019,Race/Ethnicity,Not Provided - Race,Not Justice Involved,HS Diploma,,61-80
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,Dropout,0.55,55
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,GED,0.04,4
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Justice Involved,HS Diploma,0.4,40
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,Dropout,0.54,54
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,GED,0.04,4
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Juvenile Offender,HS Diploma,0.41,41
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,Dropout,0.21,21
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,GED,0.01,1
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Not Justice Involved,HS Diploma,0.78,78
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,Dropout,,65-69
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,GED,,3-4
+2019,Race/Ethnicity,Spanish/Hispanic/Latino,Status Offender,HS Diploma,,25-29
+2019,Race/Ethnicity,White,Justice Involved,Dropout,0.47,47
+2019,Race/Ethnicity,White,Justice Involved,GED,0.08,8
+2019,Race/Ethnicity,White,Justice Involved,HS Diploma,0.46,46
+2019,Race/Ethnicity,White,Juvenile Offender,Dropout,0.46,46
+2019,Race/Ethnicity,White,Juvenile Offender,GED,0.08,8
+2019,Race/Ethnicity,White,Juvenile Offender,HS Diploma,0.46,46
+2019,Race/Ethnicity,White,Not Justice Involved,Dropout,0.14,14
+2019,Race/Ethnicity,White,Not Justice Involved,GED,0.02,2
+2019,Race/Ethnicity,White,Not Justice Involved,HS Diploma,0.85,85
+2019,Race/Ethnicity,White,Status Offender,Dropout,,55-59
+2019,Race/Ethnicity,White,Status Offender,GED,,3-4
+2019,Race/Ethnicity,White,Status Offender,HS Diploma,,35-39
