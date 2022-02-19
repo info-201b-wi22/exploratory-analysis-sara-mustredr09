@@ -2,6 +2,7 @@ project_data<-read.csv("https://raw.githubusercontent.com/info-201b-wi22/explora
 
 # 1. Which word (hs outcome) pops up the most for each race?
  # Functions to use: summarize ( mode?)
+most_outcome_race <- Juvenile_Justice_Dashboard_HS_Completion %>% group_by(DemographicValue %>% )
 #Groupby by demographic value
 # 2. Which word (offender type) pops up the most for each race?
  # Functions to use: summarize ( mode?)
