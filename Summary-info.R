@@ -1,74 +1,58 @@
 Juvenile_Justice_Dashboard_HS_Completion<-read.csv("https://raw.githubusercontent.com/info-201b-wi22/exploratory-analysis-sara-mustredr09/main/Juvenile_Justice_Dashboard_-_HS_Completion.csv?token=GHSAT0AAAAAABQIEWSA6BKJCPJ3VN3C5VHSYQYGLCA")
 install.packages("tidyverse")
 library(dplyr)
-# 1. Which  demographic value has the highest percentage of HS diplomas?
-# Which group has the 
+
+# We were originally going to count the amount of times that each value appeared, but the research
+# sample included the same amount of people per Demographic Group, so we decided to use percentages.
+
+# 1.What is the percentage of HS Diplomas per group?
 # Functions to use: summarize ( mode?)
 #Groupby by demographic value
 
-pct_hs_dip<- Juvenile_Justice_Dashboard_HS_Completion %>% 
+pct_hs_dip<-Juvenile_Justice_Dashboard_HS_Completion %>% 
   group_by(DemographicValue) %>% 
-  filter(HSOutcome == 'HS Diploma') %>% 
-  filter(Pct == max(Pct))
-
-#Probs going with this one
-
-pct_hs_dip<- Juvenile_Justice_Dashboard_HS_Completion %>% 
   filter(HSOutcome == 'HS Diploma') %>%
-  group_by(DemographicValue) %>% 
-  summarise(pct_hs_dip = mean(Pct, na.rm = TRUE))
+  summarize(pct_inv = mean(Pct, na.rm = TRUE))
 
-pct_hs_dip<- Juvenile_Justice_Dashboard_HS_Completion %>% 
-  filter(HSOutcome == 'HS Diploma') %>%
+# 2a. What is the percentage of dropouts per Demographic Value?
+pct_dropouts<-Juvenile_Justice_Dashboard_HS_Completion %>% 
   group_by(DemographicValue) %>% 
-  count(Pct) %>% 
-  top_n(1)
-  
-?summarise
+  filter(HSOutcome == 'Dropout') %>%
+  summarize(pct_inv = mean(Pct, na.rm = TRUE))
 
-find_mode <- function(x) {
-  u <- unique(x)
-  tab <- tabulate(match(x, u))
-  u[tab == max(tab)]
-}
-
-# 2. Which Demographic value has the highest percentage of people with a criminal record ?
-# Functions to use: summarize ( mode?)
-# Groupby by demographic value
-offender_type_outcome_race<-Juvenile_Justice_Dashboard_HS_Completion %>% 
-  filter(JJOffenderType == 'Justice Involved') %>% 
+# 2b. What is the percentage of GED per Demographic Value?
+pct_ged<-Juvenile_Justice_Dashboard_HS_Completion %>% 
   group_by(DemographicValue) %>% 
-  filter(HSOutcome==max(HSOutcome,na.rm=TRUE)) %>% 
-  
-pct_justice_inv<- Juvenile_Justice_Dashboard_HS_Completion %>% 
-  filter(JJOffenderType == 'Justice Involved') %>% 
-  group_by(DemographicValue) %>% 
-  summarise(pct_inv = mean(Pct, na.rm = TRUE))
+  filter(HSOutcome == 'GED') %>%
+  summarize(pct_inv = mean(Pct, na.rm = TRUE))
 
 #---------------------------------------------------------------------------------------
 # 3. Average percentage of not justice involved per demographic value
 
-pct_nojustice <- Juvenile_Justice_Dashboard_HS_Completion %>% filter(JJOffenderType == 'Not Justice Involved') %>% 
-  group_by(DemographicValue) %>% summarise(pct_not_involved = mean(Pct, na.rm = TRUE))
+avg_pct_nojustice <- Juvenile_Justice_Dashboard_HS_Completion %>% 
+  filter(JJOffenderType == 'Not Justice Involved') %>% 
+  group_by(DemographicValue) %>% 
+  summarise(pct_not_involved = mean(Pct, na.rm = TRUE))
 
 # 4. Average percentage of justice involved (justice involved, juvenile offender, status offender) per demographic value
 #RedactedPct
 
-pct_criminal_record<-full_join(pct_justice_inv,pct_offenders, by="DemographicValue")
-pct_offenders<-full_join(pct_juv_off,pct_status_off, by="DemographicValue")
+avg_pct_criminal_record<-full_join(pct_justice_inv,pct_offenders, by="DemographicValue") %>% 
+  mutate(pct_crim_rec=mean(pct_inv:pct_stat,na.rm=TRUE))
 
+avg_pct_offenders<-full_join(pct_juv_off,pct_status_off, by="DemographicValue")
                                 
-pct_justice_inv<- Juvenile_Justice_Dashboard_HS_Completion %>% 
+avg_pct_justice_inv<- Juvenile_Justice_Dashboard_HS_Completion %>% 
   filter(JJOffenderType == 'Justice Involved') %>% 
-  group_by(DemographicValue) %>% 
+  group_by(DemographicValue) %>%
   summarise(pct_inv = mean(Pct, na.rm = TRUE))
 
-pct_juv_off<- Juvenile_Justice_Dashboard_HS_Completion %>% 
+avg_pct_juv_off<- Juvenile_Justice_Dashboard_HS_Completion %>% 
   filter(JJOffenderType =='Juvenile Offender') %>% 
   group_by(DemographicValue) %>% 
   summarise(pct_juv = mean(Pct, na.rm = TRUE))
 
-pct_status_off<- Juvenile_Justice_Dashboard_HS_Completion %>% 
+avg_pct_status_off<- Juvenile_Justice_Dashboard_HS_Completion %>% 
   filter(JJOffenderType =='Status Offender') %>% 
   group_by(DemographicValue) %>% 
   summarise(pct_stat = mean(Pct, na.rm = TRUE))
