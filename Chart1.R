@@ -8,15 +8,16 @@ library(ggplot2)
 # (justice-involved, not justice-involved, juvenile offender, status offender)
 avg_pct_offenders <- project_data %>%
   filter(DemographicGroup == "All Students") %>% 
-  filter(DemographicValue == "All Students")
+  filter(DemographicValue == "All Students") %>% 
+  filter(CohortYearTTL > 2015) %>% 
+  rename("Percent_of_Cohort" = "Pct") %>% 
+  rename("Justice_Involvement" = "JJOffenderType")
 
-pct_dropout <- project_data %>% 
-  group_by(JJOffenderType) %>% 
-  filter(HSOutcome == "Dropout") %>% 
-  summarise(avg_pct_dropout = mean(Pct, na.rm = TRUE))
-  
+
 ggplot(data = avg_pct_offenders) +
   geom_col(
-    mapping = aes(x = JJOffenderType, y = RedactedPct, fill = HSOutcome), position = "dodge"
-  )
+    mapping = aes(x = Justice_Involvement, y = Percent_of_Cohort, fill = HSOutcome), position = "dodge"
+  ) + scale_y_continuous(breaks = seq(0, .83, .1)) + facet_wrap(~CohortYearTTL)
+
+  
 

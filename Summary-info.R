@@ -37,10 +37,10 @@ avg_pct_nojustice <- Juvenile_Justice_Dashboard_HS_Completion %>%
 # 4. Average percentage of justice involved (justice involved, juvenile offender, status offender) per demographic value
 #RedactedPct
 
-avg_pct_criminal_record<-full_join(pct_justice_inv,pct_offenders, by="DemographicValue") %>% 
+avg_pct_criminal_record<-full_join(avg_pct_justice_inv,avg_pct_offenders, by="DemographicValue") %>% 
   mutate(pct_crim_rec=mean(pct_inv:pct_stat,na.rm=TRUE))
 
-avg_pct_offenders<-full_join(pct_juv_off,pct_status_off, by="DemographicValue")
+avg_pct_offenders<-full_join(avg_pct_juv_off,avg_pct_status_off, by="DemographicValue")
                                 
 avg_pct_justice_inv<- Juvenile_Justice_Dashboard_HS_Completion %>% 
   filter(JJOffenderType == 'Justice Involved') %>% 
