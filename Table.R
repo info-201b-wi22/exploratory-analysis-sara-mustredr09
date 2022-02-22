@@ -8,7 +8,7 @@ hs_outcome_table <- project_data %>%
   filter(JJOffenderType == "Not Justice Involved") %>% 
   filter(HSOutcome == "HS Diploma") %>% 
   rename("Pct_Not_Justice_Involved" = "Pct") %>% 
-  select(-c(DemographicGroup, JJOffenderType, RedactedPct)) %>% 
+  select(-c(DemographicGroup, JJOffenderType, RedactedPct, HSOutcome)) %>% 
   rename("Race/Ethnicity" = "DemographicValue")
  
 view(hs_outcome_table)
