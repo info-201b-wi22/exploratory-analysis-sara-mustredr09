@@ -61,13 +61,19 @@ __Limitations of the Dataset__:
 - Some of the values are blurred out to protect students’ identities, so it might skew the results. These might translate to N/A values in RStudio, so any function we use will need to exclude those values.
 - The data for students whose gender falls into the \'x\' category is inconsistently recorded, which could result in inaccurate representation of this group.
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
 ### Implications
+>>>>>>> 22a246565fe29d10cfb93210b704e0dce0bcd6ad
 
 Assuming you answer your research questions, briefly describe the expected or possible implications for technologists, designers, and policymakers. (at least 150 words)
 
 ### Limitations & Challenges
 What challenges or limitations might you need to address with your project idea more broadly? Briefly discuss. (at least 150 words)
 
+>>>>>>> 1d8e285518f5d733819a045aacfae2cac6c99cc9
 ### Summary Information
 
 Write a summary paragraph of findings that includes the 5 values calculated from your summary information R script
@@ -92,6 +98,8 @@ We wanted to demonstrate the changes over time for the high school outcomes for 
 ```{r, echo = FALSE, code = readLines("Chart2.R")}
 ```
 
+
+I chose to do this chart because it shows the percentage (slope) of students that graduated with a high school diploma based on their demographic values, and it is calculated per year. These values include race, sex, and all other unspecified values.
 
 ### Chart 3
 

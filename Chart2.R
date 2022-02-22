@@ -12,8 +12,7 @@ pct_graduated <- project_data %>%
   summarise(avg_pct_graduted = mean(Pct, na.rm = TRUE))
 
 p1 <- ggplot(data = pct_graduated) + geom_line(aes(y = Pct, x = CohortYearTTL, 
-                                               color = DemographicValue), 
+                                                   color = DemographicValue), 
                                                data = project_data)
-p1 + labs(title = "HS outcome by race", x = "Year", y = "Percent With Diploma", 
+p1 + labs(title = "High School Outcome by Demographic", x = "Year", y = "Percent With Diploma", 
           caption = "Data: data.wa.gov")
-
