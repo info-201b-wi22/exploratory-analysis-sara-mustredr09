@@ -3,13 +3,11 @@ title: "Exploratory Analysis"
 output: html_document
 ---
 
-## Project title
-
-Give your project a concise, interesting title that summarizes the entirety of your project
+## High School Outcomes, race, and justice involvement
 
 ### Authors
 
-Names of your team members
+Sara Mustre-del Rio, Amaya Whitney, Sander Lush, Li Lin
 
 ### Date
 
@@ -97,6 +95,7 @@ Describe why you chose this chart and what information it reveals
 
 ### Chart 3
 
-Include a chart
+```{r, echo = FALSE, code = readLines("Chart3.R)}
+```
 
-Describe why you chose this chart and what information it reveals
+Demosntrates the average dropout rate per justice involvement category
