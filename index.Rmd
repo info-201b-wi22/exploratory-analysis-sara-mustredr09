@@ -55,9 +55,15 @@ What challenges or limitations might you need to address with your project idea 
 There are a handful of different challenges and limitations that we will need to address in our research in order to come to a reliable conclusion. The first that comes to mind is the areas in which we choose to target within Washington state. Because school districts are usually controlled by the city or county that they reside in, it will be important to note any distinctions within these separate areas in order to identify any biases. This also applies to any data that we come across when conducting research about involvement with the criminal justice system and its effect on young people's education outcomes. This could pose a challenge as the extra data that we are looking for may not be readily available in the way that we need it, forcing us to adapt based on the information that we know to be true. It is possible that educated inferences will need to be made for the sake of answering our research questions which could limit our findings. However, these are all challenges that can be addressed and should not keep us from answering our questions about the effects race and criminal justice involvement have on young people's education outcomes in Washington State High Schools.
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1d8e285518f5d733819a045aacfae2cac6c99cc9
 ### Summary Information
 
 Write a summary paragraph of findings that includes the 5 values calculated from your summary information R script
+
 
 ### Table
 
@@ -81,6 +87,8 @@ Here's an example of how to run an R script inside an RMarkdown file:
 Include a chart
 
 Describe why you chose this chart and what information it reveals
+
+I chose to do this chart because it shows the percentage (slope) of students that graduated with a high school diploma based on their demographic values, and it is calculated per year. These values include race, sex, and all other unspecified values.
 
 ### Chart 3
 
