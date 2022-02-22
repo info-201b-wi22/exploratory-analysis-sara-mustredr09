@@ -11,3 +11,4 @@ hs_outcome_table <- project_data %>%
   select(-c(DemographicGroup, JJOffenderType, RedactedPct)) %>% 
   rename("Race/Ethnicity" = "DemographicValue")
  
+view(hs_outcome_table)
