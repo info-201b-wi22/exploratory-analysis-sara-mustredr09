@@ -3,7 +3,9 @@ library(tidyverse)
 library(dplyr)
 library(ggplot2)
 
-#Scatterplot representing Dropout rate per Justice Involvement category.
+# Scatterplot representing Dropout rate per Justice Involvement category. 
+# We chose this chart to reveal how involvement with the criminal justice system might affect
+# dropout rates.
 
 pct_dropouts <- project_data %>% 
   group_by(JJOffenderType) %>% 
