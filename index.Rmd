@@ -106,4 +106,5 @@ I chose to do this chart because it shows the percentage (slope) of students tha
 ```{r, echo = FALSE, code = readLines("Chart3.R)}
 ```
 
-Demosntrates the average dropout rate per justice involvement category
+Demonstrates the average dropout rate per justice involvement category. We chose this chart to reveal how involvement with the criminal justice system might affect dropout rates.
+
