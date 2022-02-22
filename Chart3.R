@@ -15,6 +15,3 @@ ggplot(data = pct_dropouts) +
   geom_point(
     mapping = aes(x = JJOffenderType, y = avg_pct_dropouts, color = JJOffenderType)
   ) 
-
-ggplot(pct_dropouts) +
-  geom_col(mapping = aes(x =JJOffenderType , y = avg_pct_dropouts, fill = JJOffenderType))
