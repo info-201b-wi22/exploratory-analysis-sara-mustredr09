@@ -55,7 +55,7 @@ avg_pct_status_off<- Juvenile_Justice_Dashboard_HS_Completion %>%
 avg_pct_offenders<-full_join(avg_pct_juv_off,avg_pct_status_off, by="DemographicValue")
 
 avg_pct_criminal_record<-full_join(avg_pct_justice_inv,avg_pct_offenders, by="DemographicValue") %>% 
-  mutate(pct_crim_rec=mean(pct_inv:pct_stat,na.rm=TRUE))
+  mutate(pct_crim_rec=mean(pct_inv+pct_stat+pct_juv,na.rm=TRUE))
 
 # 5. Proportion of dropouts w/justice involvement
 all_justice_in <- Juvenile_Justice_Dashboard_HS_Completion %>% filter(JJOffenderType != 'Not Justice Involved') %>% 
