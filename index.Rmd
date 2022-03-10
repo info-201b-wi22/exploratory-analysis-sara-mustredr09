@@ -62,7 +62,7 @@ __Limitations of the Dataset__:
 - The data for students whose gender falls into the \'x\' category is inconsistently recorded, which could result in inaccurate representation of this group.
 
 ### Implications
-
+git 
 Our research questions all aim to find answers about how race and involvement in with the criminal justice system affect education for high schoolers in Washington State. Because we are diving into the concept of race and education, this could have very controversial implications for policymakers in Washington, as education is a very important part in the upbringing of the next generation of minds that will be running our country one day. If it is found that race is a factor in the detriment of young people's high school education experiences, and with that a direct connection to their involvement with the criminal justice system, this will prove to be a major flaw in our education and reform systems within Washington State. We will seek to find these answers in all ways that they factor into someone's high school education, whether it be due to discrimination, lack of opportunity, school funding, or any other relevant factors that may contribute to an educational experience.
 
 
@@ -98,7 +98,7 @@ I chose to do this chart because it shows the percentage (slope) of students tha
 
 ### Chart 3
 
-```{r, echo = FALSE, code = readLines("Chart3.R)}
+```{r, echo = FALSE, code = readLines("Chart3.R")}
 ```
 
 Demonstrates the average dropout rate per justice involvement category. We chose this chart to reveal how involvement with the criminal justice system might affect dropout rates.
